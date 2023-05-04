@@ -67,6 +67,5 @@ public class FacturaTelefonica {
         String cadena = "Soy una factura";
         return cadena;
     }
-    
-
+   
 }
